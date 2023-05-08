@@ -1,0 +1,8 @@
+pyproject.toml
+/setup.cfg
+/setup.py
+dist/
+src/novats.egg-info/
+.DS_Store
+.python-version
+src/novats/__pycache__/
